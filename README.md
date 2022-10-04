@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Mysik
 
 Develop an elegant React.js Music Application. 
 
@@ -51,13 +51,13 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```shell
-    git clone https://github.com/JavaScript-Mastery-PRO/project1_team4_repository.git
+    git clone https://github.com/lbnmahs/mysik-music-player.git
    ```
 
 2. Change directory to the project directory
 
     ```shell
-    cd project1_team4_repository
+    cd mysik-music-player.git
     ```
 
 3. Install the dependencies
@@ -123,7 +123,7 @@ Here we are going to focus on 2. Creating a Topical Branch:
 
 3. To create a pull request, you must have changes committed to your new branch.
 
-4. Go to [Pull Requests](https://github.com/JavaScript-Mastery-PRO/project1_team4_repository/pulls) and click on the `New Pull Request` button.
+4. Go to [Pull Requests](https://github.com/lbnmahs/mysik-music-player/pulls) and click on the `New Pull Request` button.
 
 5. Select the `main` branch as the `base` branch and the `jsm-dev` branch as the `compare` branch.
 
