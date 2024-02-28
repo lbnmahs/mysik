@@ -1,8 +1,6 @@
-# Project Mysik
+# Mysik
 
-Develop an elegant React.js Music Application. 
-
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+Web-based music player made using Next JS and Tailwind CSS.
 
 # Contributing
 
@@ -12,7 +10,7 @@ Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in
 
 ## System Requirements
 
-To get started with development, you need to install few tools
+To get started with development, you need to install a few tools
 
 1. git 
    
@@ -20,7 +18,7 @@ To get started with development, you need to install few tools
 
    To check your version of git, run:
 
-   ```shell
+   ``` shell
     git --version
    ```
 
@@ -30,17 +28,17 @@ To get started with development, you need to install few tools
 
    To check your version of node, run:
 
-   ```shell
+   ``` shell
     node --version
    ```
 
 3. npm
   
-   `npm` version 5.6.1 or higher. You will have it after you install node.
+   `npm` version 5.6.1 or higher. You will have it after you install Node.
 
    To check your version of npm, run:
 
-   ```shell
+   ``` shell
     npm --version
    ```
 
@@ -50,33 +48,33 @@ To set up a development environment, please follow these steps:
 
 1. Clone the repo
 
-   ```shell
+   ``` shell
     git clone https://github.com/lbnmahs/mysik-music-player.git
    ```
 
-2. Change directory to the project directory
+2. Change the directory to the project directory
 
-    ```shell
+    ``` shell
     cd mysik-music-player.git
     ```
 
 3. Install the dependencies
    
-    ```shell
+    ``` shell
      npm install
     ```
 
-    If you get an error, please check the console for more information.
+    If you happen to get an error, please check the console for more information.
 
-    If you don't get an error, you are ready to start development.
+    You are ready to start development if you don't get an error.
 
 4. Run the app
    
-    ```shell
+    ``` shell
     npm run dev
     ```
 
-    Project will be running in the browser.
+    The project will be running in the browser.
 
     Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -94,7 +92,7 @@ Please try to create bug reports that are:
 
 ## Pull Request
 
-There are 2 main work flows when dealing with pull requests:
+There are 2 main workflows when dealing with pull requests:
 
 * Pull Request from a [forked repository](https://help.github.com/articles/fork-a-repo)
 * Pull Request from a branch within a repository
@@ -102,7 +100,7 @@ There are 2 main work flows when dealing with pull requests:
 Here we are going to focus on 2. Creating a Topical Branch:
 
 
-1. First, we will need to create a branch from the latest commit on master. Make sure your repository is up to date first using
+1. First, we will need to create a branch from the latest commit on the master. Make sure your repository is up to date first using
 
    ```bash
     git pull origin main
@@ -114,7 +112,7 @@ Here we are going to focus on 2. Creating a Topical Branch:
    
    Use a standard convention for branch names. For example, `<your-name>-dev`. It will be easier to track your pull requests if you use this convention.
    
-   I'm going to create a new branch called `lbn-dev` from the `main` branch and push it to github.
+   I'm going to create a new branch called `lbn-dev` from the `main` branch and push it to Git Hub.
 
    ```bash
     git checkout -b lbn-dev main
